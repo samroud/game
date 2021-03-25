@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/supero.ch"
+                 "value":"index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
