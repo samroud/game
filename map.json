@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"http:\/\/bourseauxspectacles.ch"
+                 "value":"https:\/\/bourseauxspectacles.ch"
                 }],
          "type":"tilelayer",
          "visible":true,
